@@ -1,3 +1,25 @@
-# 清华大学
+# 国内
 
-https://github.com/chyyuu/os_course_info
+## 操作系统
+
+《操作系统概念(原书第九版)》
+
+《操作系统概念精要(原书第二版)》
+
+《操作系统精髓与设计原理》
+
+《操作系统设计与实现》
+
+《操作系统原理，设计与应用》
+
+《操作系统原理》
+
+《现代操作系统(原书第四版)》
+
+## 系统编程
+
+《UNIX环境高级编程（第3版）》
+
+# 国外
+
+Understanding Unix-Linux Programming by Bruce Molay
